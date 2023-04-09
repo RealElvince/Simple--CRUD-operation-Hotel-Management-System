@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "name": "Eli",
+      "email": "elvo@test.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "eli",
+      "email": "eli@test.com",
+      "password": "1223#",
+      "id": 2
+    },
+    {
+      "name": "Ken",
+      "email": "ken@gmail.com",
+      "password": "1223",
+      "id": 3
+    },
+    {
+      "name": "Tony",
+      "email": "tony@gmail.com",
+      "password": "2323",
+      "password2": "2323",
+      "id": 4
+    },
+    {
+      "name": "faith",
+      "email": "faith@gmail.com",
+      "password": "faith56",
+      "password2": "faith56",
+      "id": 5
+    },
+    {
+      "name": "Mike Oduor",
+      "email": "oduormike@gmail.com",
+      "password": "mike45",
+      "password2": "mike45",
+      "id": 6
+    },
+    {
+      "name": "Rihana Anyango",
+      "email": "r.anyango@gmail.com",
+      "password": "2345",
+      "password2": "2345",
+      "id": 7
+    },
+    {
+      "name": "Cornel Omondi",
+      "email": "omondi@student.ku.ac.ke",
+      "password": "4125/2027",
+      "password2": "4124/2027",
+      "id": 8
+    },
+    {
+      "name": "Wendy Akinyi",
+      "email": "wendy@gmail.com",
+      "password": "6789",
+      "password2": "6789",
+      "id": 32
+    },
+    {
+      "name": "Viola Akinyi",
+      "email": "akinyi.v@students.ku.ac.ke",
+      "password": "3456",
+      "password2": "3456",
+      "id": 33
+    },
+    {
+      "name": "Kennedy Waru",
+      "email": "waru.ken@yahoo.com",
+      "password": "waru67",
+      "password2": "waru67",
+      "id": 34
+    },
+    {
+      "name": "Caren Atieno",
+      "email": "caro@gmail.com",
+      "password": "5656",
+      "password2": "5656",
+      "id": 35
+    },
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "password2": "admin@123",
+      "id": 37
+    }
+  ],
+  "hotel": [
+    {
+      "id": 1,
+      "name": "The Boma Nairobi",
+      "contact": 25478897767,
+      "address": "Westlands sector 700"
+    },
+    {
+      "id": 2,
+      "name": "Hilton Hotel",
+      "contact": 254711234567,
+      "address": "Mama Ngina sector 34"
+    },
+    {
+      "id": 3,
+      "name": "Manhattan Hotel",
+      "contact": 254710455678,
+      "address": "Moi Avenue sector 45"
+    },
+    {
+      "name": "RCB hotel",
+      "contact": "0756543212",
+      "address": "Kilimani ,Nairobi West",
+      "id": 4
+    },
+    {
+      "name": "Nyama Villa Hotel",
+      "contact": "0767654321",
+      "address": "Kayole Masimba,Nairobi East",
+      "id": 5
+    },
+    {
+      "name": "Highwaay Hotel",
+      "contact": "254788776641",
+      "address": "Parklands,Nairobi",
+      "id": 6
+    },
+    {
+      "name": "The Vic Hotel",
+      "contact": "254765458900",
+      "address": "Kisumu-Busia Road ,Kisumu",
+      "id": 7
+    }
+   
+  ]
+}
